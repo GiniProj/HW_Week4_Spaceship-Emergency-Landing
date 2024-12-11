@@ -197,5 +197,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxLandingVelocity: 3
-  nextSceneName: Level-3
   goToNextScene: {fileID: 0}
